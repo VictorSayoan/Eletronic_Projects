@@ -1,2 +1,2 @@
 # Eletronic_Projects
- Eletronic Projects
+ Eletronic Projects developed in the Proteus
